@@ -1,6 +1,8 @@
-# Advent of Code Elixir Starter
+# Advent of Code 2020
 
-A batteries included starter pack for participating in [Advent of Code](https://www.adventofcode.com) using Elixir!
+My solutions for [Advent of Code](https://www.adventofcode.com) 2020 in Elixir.
+
+Based on a [template](https://github.com/mhanberg/advent-of-code-elixir-starter) by (mhanberg)[https://github.com/mhanberg].
 
 ## Usage
 
