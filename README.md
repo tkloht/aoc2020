@@ -2,7 +2,7 @@
 
 My solutions for [Advent of Code](https://www.adventofcode.com) 2020 in Elixir.
 
-Based on a [template](https://github.com/mhanberg/advent-of-code-elixir-starter) by (mhanberg)[https://github.com/mhanberg].
+Based on a [template](https://github.com/mhanberg/advent-of-code-elixir-starter) by [mhanberg](https://github.com/mhanber).
 
 ## Usage
 
